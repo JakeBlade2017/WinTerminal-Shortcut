@@ -20,4 +20,17 @@ Context menu text can be costumizable, on both files are in the _**line 4**_ and
 
 ## Preview
 
-![image](https://github.com/user-attachments/assets/ac5b6d2f-332e-4a96-b4bc-7de7de6b8f67)
+<p align="center">
+  <img src="https://i.postimg.cc/g0nV01vL/431626750-ac5b6d2f-332e-4a96-b4bc-7de7de6b8f67.png">
+</p>
+
+## That's all!
+
+Something simple but effective when Windows Terminal app doesn't add you the context menu button ;3
+
+<p align="center">
+  <a href="https://reigentei.booth.pm/items/2425521"><img height=400px width=400px src="https://i.postimg.cc/HsGq4gPt/gawr-konosuba-alpha-200x200.gif"></a>
+</p>
+
+> Gawr Gura GIF made by INABATAKE
+
