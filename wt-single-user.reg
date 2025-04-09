@@ -6,4 +6,3 @@
 
 [HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\background\shell\wt\command]
 @="wt -w 0 -p \"profile-name\" -d ."
-
