@@ -1,4 +1,4 @@
-# WinTerminal-Shortcut
+# Windows-Terminal-Context-Menu
 Regedit file that adds "Open in Terminal" into context menu
 
 Before we continue please place the `wt.ico` into Windows Terminal directory
